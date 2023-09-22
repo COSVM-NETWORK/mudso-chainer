@@ -36,4 +36,4 @@ genesis:
             denom: "uCVM"
     evm:
       params:
-        evm_denom: "uCVM"
+        evm_denom: "uCVM" 
